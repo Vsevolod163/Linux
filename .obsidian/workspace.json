@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "abc91d4f04008744",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b9d00f26f5b58db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9212cc19bacf2a2b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Homework 3/Task 5.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bc49214877ff6dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2d491cf1acbb647",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1ac6e40cc146a69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b71e8bd6f1f69a93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b98a7a348334559d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.5
+  },
+  "right": {
+    "id": "b82f09640694e528",
+    "type": "split",
+    "children": [
+      {
+        "id": "e15cd75cbd152a41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c75ee3872ab4d7cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homework 3/Task 5.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f8023887e10a956",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homework 3/Task 5.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e63ec5ca7eee95e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92d0a8ada3c7f4f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homework 3/Task 5.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b1ac6e40cc146a69",
+  "lastOpenFiles": [
+    "Homework 5/Task 3.png",
+    "Homework 5/Task 2.png",
+    "Homework 5/Task 1.png",
+    "Homework 5",
+    "Homework 4/Task 3.png",
+    "Homework 4/Task 2.png",
+    "Homework 4/Task 1.png",
+    "Homework 4",
+    "Homework 3/Task 3.png",
+    "Homework 1/Подключение ssh.jpg",
+    "Homework 3/Task 2.png",
+    "Homework 3/Task 1.png",
+    "Подключение ssh.jpg",
+    "Homework 3",
+    "Homework 2",
+    "Homework 1",
+    "Установка ОС Ubuntu в виртуальной машине. Работа в SSH-клиенте..md"
+  ]
+}
